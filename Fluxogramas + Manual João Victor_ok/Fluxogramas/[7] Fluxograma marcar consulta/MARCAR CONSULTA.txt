@@ -1,0 +1,4 @@
+ Marcar consulta
+
+O fluxograma da figura ( ) apresenta o processo onde o usuário marcara consultas, o usuário deve entrar com os dados necessários para marcar a consulta, após marcar, será perguntado ao usuário se ele deseja marcar uma nova consulta,
+caso a resposta seja positiva, o usuário deverá preencher novamente os dados necessários para marcar a consulta, assim continuamente até o usuário responder que não deseja marcar mais consultas. Após isso o usuário será redirecionado para o menu principal.

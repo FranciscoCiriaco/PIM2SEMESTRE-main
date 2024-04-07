@@ -1,0 +1,3 @@
+Cancelar consulta
+
+O fluxograma na Figura () mostra o processo de cancelamento de consulta, o usuário deve inserir o nome do cliente desejado para visualizar o status da consulta, se houver uma consulta com o nome do cliente informado, será perguntado ao usuário se deseja alterar o status da consulta. Se a resposta for sim, o usuário pode alterar o status da consulta para cancelado, caso contrário, o usuário será informado que não há nenhuma consulta agendada com o nome informado e será redirecionado para o menu principal.

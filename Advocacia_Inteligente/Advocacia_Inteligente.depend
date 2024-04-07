@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1668812966 source:c:\users\vasti\documents\meusprojeos_github\pim2semestre\advocacia_inteligente\main.c
+	<stdio.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+
+1668555146 source:c:\users\jonathan e leo\documents\programa em c\programa advogacia\pim2semestre\advocacia_inteligente\main.c
+	<stdio.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+
+1668791552 source:c:\users\55169\documents\github\pim2semestre\advocacia_inteligente\main.c
+	<stdio.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+
+1668970477 source:c:\users\jeffe\documents\github\pim2semestre\advocacia_inteligente\main.c
+	<stdio.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+
